@@ -1,0 +1,17 @@
+{
+  "name": "jssm-node16",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "jssm": "^5.98.2"
+  },
+  "devDependencies": {
+    "typescript": "~5.3.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
